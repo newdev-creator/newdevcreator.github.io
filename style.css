@@ -68,7 +68,7 @@ body {
 /*===================*/
 .right {
   background-color: #fff;
-  height: 250vh;
+  height: auto;
 }
 
 .right h1 {
