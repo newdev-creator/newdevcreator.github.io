@@ -68,7 +68,7 @@ body {
 /*===================*/
 .right {
   background-color: #fff;
-  height: 210vh;
+  height: auto;
 }
 
 .right h1 {
@@ -126,6 +126,7 @@ body {
 
 .right .images img {
   width: 4rem;
+  margin-bottom: 82px;
 }
 
 .right .images {
